@@ -59,6 +59,12 @@ COMO USAR OS COMANDOS:
 <img width="526" height="206" alt="image" src="https://github.com/user-attachments/assets/d5e56d9a-82e2-4e69-b179-9253861287c2" />
 <img width="498" height="172" alt="image" src="https://github.com/user-attachments/assets/d1eff6a8-83c7-421c-be25-3a0baaa21a37" />
 
+### PostgreSQL
+```
+É um sgbd, sistema gerenciador de banco de dados, onde eu manipulo, deleto e modifico o meu banco de dados, claro que tudo isso usando o sql
+SQL → manda pro PostgreSQL → ele executa no banco de dados.
+```
+
 
 
 
