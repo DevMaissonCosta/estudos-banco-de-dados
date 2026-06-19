@@ -67,7 +67,16 @@ SQL → manda pro PostgreSQL → ele executa no banco de dados.
 ### Beekeeper Studio
 ```
 É uma interface gráfica, onde eu me conecto com o postgreSQL e visualizo as tabelas, colunas e etc.. uso ela para fazer consultas com o SQL.
-Após eu me conectar com o postgreSQL eu posso fazer um " CREATE DATABASE agenda " -> nesse caso estou criando um banco de dados com nomeado agenda.        
+Após eu me conectar com o postgreSQL eu posso fazer um " CREATE DATABASE agenda " -> nesse caso estou criando um banco de dados com nomeado agenda.
+-----
+
+CREATE TABLE contatos (
+  id SERIAL PRIMARY KEY,
+  nome VARCHAR (100),
+  telefone VARCHAR (20)
+);
+-> COM ISSO EU ACABO DE CRIAR UMA TABELA CONTATOS, COM NOME E TELEFONE.
+     
 ```
 
 
